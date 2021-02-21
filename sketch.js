@@ -88,7 +88,7 @@ function draw() {
   stroke("white");
   textSize(30);
   fill("white");
-  text("TOWER SEIGE",600,50);
+  text("TOWER SIEGE",600,50);
   
 
   fill("brown");
